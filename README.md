@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="src/hand.gif" height=32px>, I'm Sayyed Haaris</h1>
 <h2 align="center">I learned very early the difference between knowing the name of something and knowing something.</h2>
-<img width="38%" align="right" alt="Github" src="src/giphy.gif" style="max-width: 100%;">
+<img width="50%" align="right" alt="Github" src="src/giphy.gif" style="max-width: 100%;">
 
 - 🌱 I’m currently learning **everything 🤣.**
 
