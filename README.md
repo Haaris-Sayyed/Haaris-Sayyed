@@ -1,27 +1,20 @@
 <h1 align="center">Hey <img src="src/hand.gif" height=32px>, I'm Sayyed Haaris</h1>
-<h2 align="center">I learned very early the difference between knowing the name of something and knowing something.</h2>
-<img width="50%" align="right" alt="Github" src="src/giphy.gif" style="max-width: 100%;">
+<h2 align="center">Learning and Exploring.</h2>
 
-- 🌱 I’m currently learning **everything 🤣.**
-
-- 📫 How to reach me **haaris7200@gmail.com**
-
-- ⚡ Fun fact **I'm smart enough to know that I'm dumb.**
-<br /><br />
-<h3> 
-  Visitor Count <br>
-  <img src="https://profile-counter.glitch.me/Haaris-Sayyed/count.svg" />
-</h3>
-
-<br /><br /><br /><br /><br /><br />
-
-<h1>Github Stats</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=haaris-sayyed&show_icons=true&locale=en&theme=tokyonight" alt="haaris-sayyed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haaris-sayyed&theme=tokyonight" alt="haaris-sayyed" /></p>
-
-<img src="src/final.png">
+<p align="center">
+<img src="src/github.gif" alt="banner gif">
+</p>
+<p align="center">
+<img src="https://profile-counter.glitch.me/Haaris-Sayyed/count.svg" />
+</p>
+<p align="center">
+<a href="haaris7200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/haarissayyed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%" /></a>
+<a href="https://twitter.com/sayyed_haaris33" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
 
 
-
+<h1 align="center">|| Github Stats ||</h1>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=haaris-sayyed&show_icons=true&locale=en&theme=tokyonight" alt="haaris-sayyed" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haaris-sayyed&theme=tokyonight" alt="haaris-sayyed" /></p>
 
